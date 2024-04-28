@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/contohlangsunghapus/static/css/main.c5ada07f.css",
+    "main.js": "/contohlangsunghapus/static/js/main.80585beb.js",
+    "static/media/4.png": "/contohlangsunghapus/static/media/4.f99ee4964e0c75c7f6d7.png",
+    "static/media/1.png": "/contohlangsunghapus/static/media/1.5d6b708fb982d6d6ea9b.png",
+    "static/media/7.png": "/contohlangsunghapus/static/media/7.2efd02bd3cf0c77c0242.png",
+    "static/media/6.png": "/contohlangsunghapus/static/media/6.8f0ea0bb75a5040003d6.png",
+    "static/media/5.png": "/contohlangsunghapus/static/media/5.7337152018f1c7af680f.png",
+    "static/media/3.png": "/contohlangsunghapus/static/media/3.ab4a68b22cc15f64bb09.png",
+    "static/media/2.png": "/contohlangsunghapus/static/media/2.ad7562f6e62946339c66.png",
+    "static/media/8.png": "/contohlangsunghapus/static/media/8.443643f2d04cb757d25c.png",
+    "static/media/ctrlxautomation.jpg": "/contohlangsunghapus/static/media/ctrlxautomation.4f8bfa81d34917224942.jpg",
+    "static/media/modbus.png": "/contohlangsunghapus/static/media/modbus.9953e50a67c584bec4fd.png",
+    "static/media/Picture1.png": "/contohlangsunghapus/static/media/Picture1.aa8da28f6f518ae2265f.png",
+    "static/media/Picture2.png": "/contohlangsunghapus/static/media/Picture2.2ad4f25e2a0c934b8abf.png",
+    "static/media/Picture12.png": "/contohlangsunghapus/static/media/Picture12.0bffb108b3adffb1ce4c.png",
+    "static/media/Picture4.png": "/contohlangsunghapus/static/media/Picture4.032fd5c2aea7df1f5c56.png",
+    "static/media/Picture8.png": "/contohlangsunghapus/static/media/Picture8.789dc015e9c228c573ad.png",
+    "static/media/Picture9.png": "/contohlangsunghapus/static/media/Picture9.002fb82735a8959180e5.png",
+    "static/media/Picture10.png": "/contohlangsunghapus/static/media/Picture10.875d984ed01e73813619.png",
+    "static/media/Picture7.png": "/contohlangsunghapus/static/media/Picture7.304b2293b189c6f0cfa5.png",
+    "static/media/Picture3.png": "/contohlangsunghapus/static/media/Picture3.8f52627882c2eedde7d8.png",
+    "static/media/Picture11.png": "/contohlangsunghapus/static/media/Picture11.bf97b85fb403aa0ed46a.png",
+    "static/media/Picture6.png": "/contohlangsunghapus/static/media/Picture6.9f13c2cbca12a1400c21.png",
+    "static/media/Picture5.png": "/contohlangsunghapus/static/media/Picture5.139e321c240f243f84f4.png",
+    "index.html": "/contohlangsunghapus/index.html",
+    "main.c5ada07f.css.map": "/contohlangsunghapus/static/css/main.c5ada07f.css.map",
+    "main.80585beb.js.map": "/contohlangsunghapus/static/js/main.80585beb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5ada07f.css",
+    "static/js/main.80585beb.js"
+  ]
+}
